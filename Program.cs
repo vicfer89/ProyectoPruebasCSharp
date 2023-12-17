@@ -7,7 +7,7 @@ namespace consoleapp
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo desde VS Code");
 
